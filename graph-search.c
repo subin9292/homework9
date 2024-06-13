@@ -35,7 +35,7 @@ int main() {
     char choice;             // 사용자 명령어 저장
     int vertex, src, dest;   // 정점 및 엣지의 소스/목적지 정점
 
-   printf("[----- [강수빈]  [2023078011] -----]\n\n");
+   printf("\n[----- [강수빈]  [2023078011] -----]\n");
 
     while (1) {  // q가 입력될때까지 무한 실행
         printf("\n\n");
